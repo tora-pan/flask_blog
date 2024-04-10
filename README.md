@@ -23,9 +23,8 @@ Before running this application, ensure you have the following installed:
   ```bash
   git clone https://github.com/yourusername/flask-blog.git
   cd flask-blog
-  ```  
-  
-
+ ```  
+ 
 2. **Install dependencies:**
 
   ```bash
